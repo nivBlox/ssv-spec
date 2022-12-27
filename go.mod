@@ -9,7 +9,7 @@ require (
 	github.com/ethereum/go-ethereum v1.10.18
 	github.com/ferranbt/fastssz v0.0.0-20220103083642-bc5fefefa28b
 	github.com/herumi/bls-eth-go-binary v0.0.0-20220509081320-2d8ab06de53c
-	github.com/libp2p/go-libp2p v0.22.0
+	github.com/libp2p/go-libp2p v0.20.3
 	github.com/libp2p/go-libp2p-pubsub v0.8.2
 	github.com/pkg/errors v0.9.1
 	github.com/prysmaticlabs/go-bitfield v0.0.0-20210809151128-385d8c5e3fb7
